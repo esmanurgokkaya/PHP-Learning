@@ -1,7 +1,7 @@
 
     
 <!-- we can use php in the html  -->
- <!-- we can display the strings, numbers, data etc. with echo 
+ <!-- we can display the strings, numbers, data etc. with echo  
  -->
 <!-- we also can use the html tags in echo  to make our page more interactive and attractive -->
 <!-- string together with dot
